@@ -1,8 +1,17 @@
 <h1 align="left">Hi 👋, I'm Sergio</h1>
-<h3 align="left">Computer Science student at <a href="https://www.ehu.eus/es/">UPV-EHU</a></h3> 
 
 
 
+```python
+Sergiom8m = {
+    "Nickname": "Sergiom8m",
+    "Age": "21",
+    "Location": "Bilbao - Basque Country",
+    "Actual studies": "Computer Science degree",
+    "University": "Bilbao School of Engineering",
+    "Interest Areas": ["AI", "Data Mining", "NLP", "Project management"]
+}
+```
 
 
 <h3 align="left">Languages and Tools:</h3>
