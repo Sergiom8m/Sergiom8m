@@ -4,7 +4,7 @@
 
 ```python
 Sergiom8m = {
-    "Nickname": "Sergiom8m",
+    "Username": "Sergiom8m",
     "Age": "21",
     "Location": "Bilbao - Basque Country",
     "Actual studies": "Computer Science degree",
