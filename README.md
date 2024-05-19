@@ -32,6 +32,7 @@ Sergiom8m = {
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="35" height="35"/>
+<img src="./jetpack_compose.png" alt="jetpack compose" width="40" height="40"/>
 </p>
 
 <h3 align="left">Connect with me:</h3>
