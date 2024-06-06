@@ -5,9 +5,9 @@
 ```python
 Sergiom8m = {
     "Username": "Sergiom8m",
-    "Age": "21",
+    "Age": "22",
     "Location": "Bilbao - Basque Country",
-    "Actual studies": "Computer Science degree",
+    "Actual studies": "Computer science degree",
     "University": "Bilbao School of Engineering",
     "Interest Areas": ["AI", "Data Mining", "NLP", "Project management"]
 }
