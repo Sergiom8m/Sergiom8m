@@ -5,12 +5,11 @@
 ```python
 Sergiom8m = {
     "Username": "Sergiom8m",
-    "Age": "22",
+    "Age": "23",
     "Location": "Bilbao - Basque Country",
-    "Actual studies": "Master's degree in Artificial Intelligence",
-    "University": "UNIR",
+    "Last studies": "Master's degree in Artificial Intelligence, UNIR",
     "Job": "Computer Engineer at IntelliAlert Technologies"
-    "Interest Areas": ["AI", "Data Mining", "NLP", "Project management"]
+    "Interest Areas": ["AI", "Data Mining", "NLP", "Project management", "Time-series forecasting"]
 }
 ```
 
