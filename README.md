@@ -7,8 +7,8 @@ Sergiom8m = {
     "Username": "Sergiom8m",
     "Age": "23",
     "Location": "Bilbao - Basque Country",
-    "Last studies": "Master's degree in Artificial Intelligence, UNIR",
-    "Job": "Computer Engineer at IntelliAlert Technologies"
+    "Last studies": "Master's degree in Artificial Intelligence, UNIR (2025)",
+    "Actual Job": "Computer Engineer at IntelliAlert Technologies"
     "Interest Areas": ["AI", "Data Mining", "NLP", "Project management", "Time-series forecasting"]
 }
 ```
